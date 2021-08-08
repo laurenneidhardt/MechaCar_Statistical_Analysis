@@ -35,7 +35,11 @@ When looking at the three lots individually, we can see that the first two are w
 ## T-Tests on Suspension Coils
 
 
+![TTEST_Lot1](https://github.com/laurenneidhardt/MechaCar_Statistical_Analysis/blob/main/TTEST_Lot1.PNG)
 
+![TTEST_Lot2](https://github.com/laurenneidhardt/MechaCar_Statistical_Analysis/blob/main/TTEST_Lot2.PNG)
+
+![TTESTLot3](https://github.com/laurenneidhardt/MechaCar_Statistical_Analysis/blob/main/TTESTLot3.PNG)
 ## Study Design: MechaCar vs Competition
 
 *What metric or metrics are you going to test?
