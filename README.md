@@ -6,14 +6,17 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 ![Deliverable1](https://github.com/laurenneidhardt/MechaCar_Statistical_Analysis/blob/main/Deliverable1.PNG)
 
 *Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+   
    Ground clearance and vehicle length had the most non-random amounts of variance meaning they most likely effect the mpg. The other variables, vehicle weight, spoiler angle, and AWD have p-Values that indicate a random amount of variance.
 
 
 *Is the slope of the linear model considered to be zero? Why or why not? 
+    
     It is not considered to be zero because all of the variables are directly proportional to the mpg values and the p-value is far lower than 0.05 (reject the null hypothesis)
 
 
 *Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+    
     It does not, 
 
 ## Summary Statistics on Suspension Coils
