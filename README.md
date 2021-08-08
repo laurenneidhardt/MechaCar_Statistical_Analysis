@@ -24,8 +24,14 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 
 ![Deliverable2_TotalSummary](https://github.com/laurenneidhardt/MechaCar_Statistical_Analysis/blob/main/Deliverable2_TotalSummary.PNG)
 
+When taking the total, the variance is around 62 which is well within the 100 PSI limit.
+
 
 ![Deliverable2_LotSummary](https://github.com/laurenneidhardt/MechaCar_Statistical_Analysis/blob/main/Deliverable2_LotSummary.PNG)
+
+When looking at the three lots individually, we can see that the first two are within the limits of 100PSI but the third is far over.
+
+
 ## Study Design: MechaCar vs Competition
 
 *What metric or metrics are you going to test?
