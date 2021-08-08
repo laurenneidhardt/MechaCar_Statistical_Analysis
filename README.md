@@ -34,12 +34,16 @@ When looking at the three lots individually, we can see that the first two are w
 
 ## T-Tests on Suspension Coils
 
-
+Lot 1, we cannot reject the null hypothesis as the p-value is greater than 0.05.
 ![TTEST_Lot1](https://github.com/laurenneidhardt/MechaCar_Statistical_Analysis/blob/main/TTEST_Lot1.PNG)
 
+Lot 2, we cannot reject the null hypothesis as the p-value is greater than 0.05.
 ![TTEST_Lot2](https://github.com/laurenneidhardt/MechaCar_Statistical_Analysis/blob/main/TTEST_Lot2.PNG)
 
+Lot 3, we must reject the null hypothesis as the p-value is less than 0.05.
 ![TTESTLot3](https://github.com/laurenneidhardt/MechaCar_Statistical_Analysis/blob/main/TTESTLot3.PNG)
+
+
 ## Study Design: MechaCar vs Competition
 
 *What metric or metrics are you going to test?
